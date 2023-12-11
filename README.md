@@ -1,2 +1,2 @@
 # Exercícios
-### Exercícios para Treinar Lógica de Programação com Python
+## Exercícios para Treinar Lógica de Programação com Python
