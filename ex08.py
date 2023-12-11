@@ -1,4 +1,4 @@
-# Media de um Aluno @joaquim fernandes
+# Media de um Aluno
 print('-'*30)
 print('     Boletim do Estudante')
 print('-'*30)
